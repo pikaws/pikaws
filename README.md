@@ -14,9 +14,8 @@
 ------------------------
 
 ## 📊 GitHub Stats
-![Rio ツ GitHub stats](https://github-readme-stats.vercel.app/api?username=riousers&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=riousers&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riousers&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Rio ツ GitHub stats](https://github-readme-stats.vercel.app/api?username=riousers&show_icons=true&theme=radical)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riousers&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ------------------------
 
