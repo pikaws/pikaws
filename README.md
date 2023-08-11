@@ -3,8 +3,8 @@
 -------------------------
 
 ## Telegram
-### • [Support 💬](https://t.me/BotDestekTR) Telegram Support 
-### • [Channel 🎲](https://t.me/StarBotKanal) Telegram Channel
+### • [Support 💬](https://t.me/riousers) Telegram Support 
+### • [Channel 🎲](https://t.me/NatroDuyuru) Telegram Channel
 
 ------------------------
 
