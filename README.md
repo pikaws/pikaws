@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats
 ![Rio ツ GitHub stats](https://github-readme-stats.vercel.app/api?username=riousers&show_icons=true&theme=radical)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riousers&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Rio ツ GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ------------------------
 
