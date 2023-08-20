@@ -3,7 +3,7 @@
 -------------------------
 
 ## Telegram
-### • [Support 💬](https://t.me/riousers) Telegram Support 
+### • [Support 💬](https://t.me/pikaws) Telegram Support 
 ### • [Channel 🎲](https://t.me/NatroDuyuru) Telegram Channel
 
 ------------------------
@@ -14,10 +14,10 @@
 ------------------------
 
 ## 📊 GitHub Stats
-![Rio ツ GitHub stats](https://github-readme-stats.vercel.app/api?username=riousers&show_icons=true&theme=radical)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riousers&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Rio ツ GitHub stats](https://github-readme-stats.vercel.app/api?username=pikaws&show_icons=true&theme=radical)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikaws&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ------------------------
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=riousers&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pikaws&theme=radical&no-frame=false&no-bg=true&margin-w=4)
